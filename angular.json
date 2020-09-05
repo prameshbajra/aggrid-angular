@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aggrid-table"
+    }
+  },
+  "defaultProject": "aggrid-table",
+  "cli": {
+    "analytics": "c556f8cb-b244-4509-84d2-28ea037cf830"
+  }
 }
